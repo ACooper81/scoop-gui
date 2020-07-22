@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\adria\OneDrive\Documents\GitHub\scoop-gui\Scoop-GUI\bin\Debug\netcoreapp3.1\Scoop-GUI.exe
 C:\Users\adria\OneDrive\Documents\GitHub\scoop-gui\Scoop-GUI\bin\Debug\netcoreapp3.1\Scoop-GUI.deps.json
 C:\Users\adria\OneDrive\Documents\GitHub\scoop-gui\Scoop-GUI\bin\Debug\netcoreapp3.1\Scoop-GUI.runtimeconfig.json
@@ -17,3 +18,24 @@ C:\Users\adria\OneDrive\Documents\GitHub\scoop-gui\Scoop-GUI\obj\Debug\netcoreap
 C:\Users\adria\OneDrive\Documents\GitHub\scoop-gui\Scoop-GUI\obj\Debug\netcoreapp3.1\Scoop-GUI.dll
 C:\Users\adria\OneDrive\Documents\GitHub\scoop-gui\Scoop-GUI\obj\Debug\netcoreapp3.1\Scoop-GUI.pdb
 C:\Users\adria\OneDrive\Documents\GitHub\scoop-gui\Scoop-GUI\obj\Debug\netcoreapp3.1\Scoop-GUI.genruntimeconfig.cache
+=======
+C:\Users\acooper\Documents\GitHub\scoop-gui\Scoop-GUI\bin\Debug\netcoreapp3.1\Scoop-GUI.exe
+C:\Users\acooper\Documents\GitHub\scoop-gui\Scoop-GUI\bin\Debug\netcoreapp3.1\Scoop-GUI.deps.json
+C:\Users\acooper\Documents\GitHub\scoop-gui\Scoop-GUI\bin\Debug\netcoreapp3.1\Scoop-GUI.runtimeconfig.json
+C:\Users\acooper\Documents\GitHub\scoop-gui\Scoop-GUI\bin\Debug\netcoreapp3.1\Scoop-GUI.runtimeconfig.dev.json
+C:\Users\acooper\Documents\GitHub\scoop-gui\Scoop-GUI\bin\Debug\netcoreapp3.1\Scoop-GUI.dll
+C:\Users\acooper\Documents\GitHub\scoop-gui\Scoop-GUI\bin\Debug\netcoreapp3.1\Scoop-GUI.pdb
+C:\Users\acooper\Documents\GitHub\scoop-gui\Scoop-GUI\obj\Debug\netcoreapp3.1\Scoop-GUI.csprojAssemblyReference.cache
+C:\Users\acooper\Documents\GitHub\scoop-gui\Scoop-GUI\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\acooper\Documents\GitHub\scoop-gui\Scoop-GUI\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\acooper\Documents\GitHub\scoop-gui\Scoop-GUI\obj\Debug\netcoreapp3.1\Scoop-GUI_MarkupCompile.cache
+C:\Users\acooper\Documents\GitHub\scoop-gui\Scoop-GUI\obj\Debug\netcoreapp3.1\Scoop-GUI_MarkupCompile.lref
+C:\Users\acooper\Documents\GitHub\scoop-gui\Scoop-GUI\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\acooper\Documents\GitHub\scoop-gui\Scoop-GUI\obj\Debug\netcoreapp3.1\Scoop-GUI.g.resources
+C:\Users\acooper\Documents\GitHub\scoop-gui\Scoop-GUI\obj\Debug\netcoreapp3.1\Scoop-GUI.AssemblyInfoInputs.cache
+C:\Users\acooper\Documents\GitHub\scoop-gui\Scoop-GUI\obj\Debug\netcoreapp3.1\Scoop-GUI.AssemblyInfo.cs
+C:\Users\acooper\Documents\GitHub\scoop-gui\Scoop-GUI\obj\Debug\netcoreapp3.1\Scoop-GUI.csproj.CoreCompileInputs.cache
+C:\Users\acooper\Documents\GitHub\scoop-gui\Scoop-GUI\obj\Debug\netcoreapp3.1\Scoop-GUI.dll
+C:\Users\acooper\Documents\GitHub\scoop-gui\Scoop-GUI\obj\Debug\netcoreapp3.1\Scoop-GUI.pdb
+C:\Users\acooper\Documents\GitHub\scoop-gui\Scoop-GUI\obj\Debug\netcoreapp3.1\Scoop-GUI.genruntimeconfig.cache
+>>>>>>> 924210c867a162b822b1aeea6689161f409ee36f

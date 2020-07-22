@@ -4,12 +4,20 @@
 winexe
 C#
 .cs
+<<<<<<< HEAD
 C:\Users\adria\OneDrive\Documents\GitHub\scoop-gui\Scoop-GUI\obj\Debug\netcoreapp3.1\
+=======
+C:\Users\acooper\Documents\GitHub\scoop-gui\Scoop-GUI\obj\Debug\netcoreapp3.1\
+>>>>>>> 924210c867a162b822b1aeea6689161f409ee36f
 Scoop_GUI
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
+<<<<<<< HEAD
 C:\Users\adria\OneDrive\Documents\GitHub\scoop-gui\Scoop-GUI\App.xaml
+=======
+C:\Users\acooper\Documents\GitHub\scoop-gui\Scoop-GUI\App.xaml
+>>>>>>> 924210c867a162b822b1aeea6689161f409ee36f
 11151548125
 
 3-917710711
