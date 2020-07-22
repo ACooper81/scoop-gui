@@ -1,5 +1,5 @@
 ﻿Scoop-GUI
-1.0.0.0
+
 
 winexe
 C#
@@ -12,7 +12,7 @@ TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
 C:\Users\acooper\Documents\GitHub\scoop-gui\Scoop-GUI\App.xaml
 11151548125
 
-5-269389585
+3-917710711
 1921654412462
 MainWindow.xaml;
 
