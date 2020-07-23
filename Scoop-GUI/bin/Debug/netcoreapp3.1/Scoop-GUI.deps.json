@@ -7,8 +7,19 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "Scoop-GUI/1.0.0": {
+        "dependencies": {
+          "Hardcodet.NotifyIcon.Wpf.NetCore": "1.0.13"
+        },
         "runtime": {
           "Scoop-GUI.dll": {}
+        }
+      },
+      "Hardcodet.NotifyIcon.Wpf.NetCore/1.0.13": {
+        "runtime": {
+          "lib/netcoreapp3.1/Hardcodet.Wpf.TaskbarNotification.dll": {
+            "assemblyVersion": "1.0.13.0",
+            "fileVersion": "1.0.13.0"
+          }
         }
       }
     }
@@ -18,6 +29,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Hardcodet.NotifyIcon.Wpf.NetCore/1.0.13": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3J1JylAOFIBbpcGsnAj1Me2rFLLUut17vHz08I1d6VXFijuYwykh9og8VwW4XVItzCPK9TtbsBz93JJqInRjog==",
+      "path": "hardcodet.notifyicon.wpf.netcore/1.0.13",
+      "hashPath": "hardcodet.notifyicon.wpf.netcore.1.0.13.nupkg.sha512"
     }
   }
 }

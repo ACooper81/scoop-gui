@@ -1,14 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-<<<<<<< HEAD
-      "C:\\Users\\adria\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\adria\\.nuget\\packages",
-      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-=======
       "C:\\Users\\acooper\\.dotnet\\store\\|arch|\\|tfm|",
       "C:\\Users\\acooper\\.nuget\\packages"
->>>>>>> 924210c867a162b822b1aeea6689161f409ee36f
     ]
   }
 }
