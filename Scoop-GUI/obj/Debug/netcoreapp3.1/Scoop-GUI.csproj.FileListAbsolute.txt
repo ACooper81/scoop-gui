@@ -41,3 +41,5 @@ C:\Users\acooper\Documents\GitHub\scoop-gui\Scoop-GUI\obj\Debug\netcoreapp3.1\Sc
 >>>>>>> 924210c867a162b822b1aeea6689161f409ee36f
 C:\Users\acooper\Documents\GitHub\scoop-gui\Scoop-GUI\bin\Debug\netcoreapp3.1\Hardcodet.Wpf.TaskbarNotification.dll
 C:\Users\acooper\Documents\GitHub\scoop-gui\Scoop-GUI\obj\Debug\netcoreapp3.1\Scoop-GUI.csproj.CopyComplete
+C:\Users\adria\OneDrive\Documents\GitHub\scoop-gui\Scoop-GUI\bin\Debug\netcoreapp3.1\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Users\adria\OneDrive\Documents\GitHub\scoop-gui\Scoop-GUI\obj\Debug\netcoreapp3.1\Scoop-GUI.csproj.CopyComplete

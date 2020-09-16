@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "GxrT7I7s7DoSzRDvCD5rXmYuaWxNFTK3384oM8RglENYKI7Uf78UrGFEis2W22oWLyjBeOujvkhHygHL+aKk7Q==",
+  "dgSpecHash": "EeghcY8IUgRM66Rtfh3MZvnPgRt9gHEKjeXxn1EPyEb8gqgajWpRNAa+rP4YHC93dZwghzGFzSMsQtgOPluN2Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\acooper\\Documents\\GitHub\\scoop-gui\\Scoop-GUI\\Scoop-GUI.csproj",
+  "projectFilePath": "C:\\Users\\adria\\OneDrive\\Documents\\GitHub\\scoop-gui\\Scoop-GUI\\Scoop-GUI.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\acooper\\.nuget\\packages\\hardcodet.notifyicon.wpf.netcore\\1.0.13\\hardcodet.notifyicon.wpf.netcore.1.0.13.nupkg.sha512"
+    "C:\\Users\\adria\\.nuget\\packages\\hardcodet.notifyicon.wpf.netcore\\1.0.13\\hardcodet.notifyicon.wpf.netcore.1.0.13.nupkg.sha512"
   ],
   "logs": []
 }
